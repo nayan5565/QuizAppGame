@@ -13,7 +13,7 @@
         android:layout_width="150dp"
         android:layout_height="80dp"
         android:layout_gravity="center"
-        android:background="@drawable/btn_rounded"
+        android:background="@drawable/view_round"
         android:gravity="center"
         android:text="Dhaka" />
 
